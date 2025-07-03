@@ -66,7 +66,6 @@ python code file.py
 Developed by **Mubashir Abbas**
 💼 BS Software Engineering, GCUF (Government College University Faisalabad)
 
-Screenshots 
 <img width="684" alt="main animation loading screen" src="https://github.com/user-attachments/assets/374208e5-5a80-4fce-abb9-c62fbdfce635" />
 <img width="635" alt="login roles" src="https://github.com/user-attachments/assets/55133a96-530e-4edf-a3a8-7ecde3232808" />
 <img width="597" alt="login menu" src="https://github.com/user-attachments/assets/c542bbe9-1f62-4929-8799-7a6cede20c04" />
