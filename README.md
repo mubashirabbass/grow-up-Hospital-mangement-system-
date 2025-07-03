@@ -45,7 +45,7 @@ pip install pillow mysql-connector-python reportlab openpyxl tkcalendar
      ```python
      host="localhost",
      user="root",
-     password="Mubashir@4",
+     password="",
      database="hospital_management_system"
      ```
 
@@ -67,11 +67,12 @@ Developed by **Mubashir Abbas**
 💼 BS Software Engineering, GCUF (Government College University Faisalabad)
 
 Screenshots 
-<img width="853" alt="staff dashboard" src="https://github.com/user-attachments/assets/f68234fd-abb6-4ebe-8c20-f8b67436bd49" />
-<img width="859" alt="patient dahboard" src="https://github.com/user-attachments/assets/4f768b44-7c53-4add-a301-785775f8ebd5" />
 <img width="684" alt="main animation loading screen" src="https://github.com/user-attachments/assets/374208e5-5a80-4fce-abb9-c62fbdfce635" />
 <img width="635" alt="login roles" src="https://github.com/user-attachments/assets/55133a96-530e-4edf-a3a8-7ecde3232808" />
 <img width="597" alt="login menu" src="https://github.com/user-attachments/assets/c542bbe9-1f62-4929-8799-7a6cede20c04" />
-<img width="871" alt="doctors dashboard" src="https://github.com/user-attachments/assets/d002e9b3-2617-4439-80fd-61a45b5ff6dc" />
 <img width="869" alt="admin dashboard" src="https://github.com/user-attachments/assets/e1cbcf50-15d3-48ef-baf8-3b2fbdc73383" />
+<img width="853" alt="staff dashboard" src="https://github.com/user-attachments/assets/f68234fd-abb6-4ebe-8c20-f8b67436bd49" />
+<img width="859" alt="patient dahboard" src="https://github.com/user-attachments/assets/4f768b44-7c53-4add-a301-785775f8ebd5" />
+<img width="871" alt="doctors dashboard" src="https://github.com/user-attachments/assets/d002e9b3-2617-4439-80fd-61a45b5ff6dc" />
+
 
